@@ -1,2 +1,2 @@
 # kong-plugin-authz-keycloak-jwt-token
-https://github.com/MorpheusPH/kong-plugin-authz-keycloak-jwt-token
+A Kong plugin based on jwt authroized by keycloak
